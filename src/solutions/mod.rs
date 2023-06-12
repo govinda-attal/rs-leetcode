@@ -1,6 +1,7 @@
 mod lc_001_two_sum;
 mod lc_002_add_two_lists;
 mod lc_004_median_sorted_slices;
+mod lc_013_roman_literal;
 mod lc_020_valid_paranthesis;
 mod lc_021_merge_sorted_list;
 mod lc_070_climb_stairs;
