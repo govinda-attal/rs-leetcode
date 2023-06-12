@@ -6,3 +6,4 @@ mod lc_121_stocks_max_profit;
 mod lc_125_is_palindrome;
 mod lc_226_invert_tree;
 mod lc_278_first_bad_version;
+mod lc_002_add_two_lists;
